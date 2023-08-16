@@ -1,1 +1,1 @@
-Please visit [appliedAI's GitHub organization](https://github.com/appliedAI-Initiative) for all of our code.
+Please visit [the appliedAI Institute's GitHub organization](https://github.com/aai-institute) for all of our code.
